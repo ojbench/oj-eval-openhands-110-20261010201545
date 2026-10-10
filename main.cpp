@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 static const int DAYS_IN_MONTH[13] = {0,31,28,31,30,31,30,31,31,30,31,30,31};
